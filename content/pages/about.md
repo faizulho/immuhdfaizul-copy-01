@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: 'This is a short page about me, Muhammad Faizul, and my work'
 img_path: /images/neat-oregano.JPG
 seo:
   title: About Me
