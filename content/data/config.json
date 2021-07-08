@@ -73,7 +73,7 @@
         ]
     },
     "footer": {
-        "content": "2021 &copy; #ImMuhdFaizul. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopene"
+        "content": "2021 &copy; #ImMuhdFaizul. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. "
     },
     "domain": "https://immuhdfaizul-blog.netlify.app",
     "favicon": "/images/caring-tortoise.PNG"
