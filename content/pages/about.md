@@ -16,7 +16,7 @@ seo:
       value: A page about Muhammad Faizul and his work.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/images/futuristic-europa.PNG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
