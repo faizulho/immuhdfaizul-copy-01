@@ -34,6 +34,15 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://facebook,com/immuhdfaizul",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/immuhdfaizul",
                 "style": "icon",
@@ -60,15 +69,6 @@
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://facebook,com/immuhdfaizul",
-                "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
