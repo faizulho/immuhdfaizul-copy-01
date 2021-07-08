@@ -63,7 +63,7 @@
             },
             {
                 "label": "Facebook",
-                "url": "#",
+                "url": "https:",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
