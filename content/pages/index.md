@@ -4,7 +4,10 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: '#ImMuhdFaizul: Muhammad Faizul''s Blog'
-  description: The preview of the Fjord theme
+  description: >-
+    This is the official blog of Muhammad Faizul, under the #ImMuhdFaizul's
+    series. Muhammad Faizul is the administrator for all assets of
+    #ImMuhdFaizul. 
   extra:
     - name: 'og:type'
       value: website
