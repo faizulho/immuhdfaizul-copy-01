@@ -6,7 +6,7 @@ subtitle: >-
   and styles for your content.
 img_path: images/style-guide.jpg
 seo:
-  title: Theme Style Guide
+  title: Muhd Faizul's Blog
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
