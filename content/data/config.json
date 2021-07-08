@@ -60,13 +60,6 @@
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
-            },
-            {
-                "label": "Email",
-                "url": "mailto:muhdfaizul@mail.ru",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
             }
         ]
     },
