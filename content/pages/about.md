@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: /images/neat-oregano.JPG
 seo:
   title: About Me
-  description: A page about me and my work
+  description: A page about Muhammad Faizul and his work.
   extra:
     - name: 'og:type'
       value: website
