@@ -19,7 +19,7 @@ seo:
       value: The preview of the Fjord theme
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /_static/app-assets/images/successful-stegosaurus.PNG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
