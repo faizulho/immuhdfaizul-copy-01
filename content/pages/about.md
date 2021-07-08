@@ -30,13 +30,14 @@ seo:
       relativeUrl: true
 layout: page
 ---
+**Muhammad Faizul** aka Muhd Faizul (in short) is the Administrator for #ImMuhdFaizul and its subsidiary assets in the cybersphere. Faizul is born in Singapore and spent his entire life there, including his education, youth and working life. Just like any other ordinary guy trying to make ends meet in Singapore, the reality of being in a minority community and jobless is slowly taking a toll on his optimism and enthusiasm with life. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Regardless of how Fate can deal with him, Faizul leaves his fate to the Almighty and fights every challenge that comes his way. Faizul is also looking to make more friends from the Malay-Muslim community in Singapore and the region. If you are genuine and keen, please contact Faizul. Ladies and gentlemen of all age groups of the Malay-Muslim community are included.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Muhammad Faizul's favourite quote
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> I am an accidental entrepreneur and developer. From Singapore.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Faizul's simple website is located [here](https://faizul.carrd.co).
 
-*Thank You for reading!*
+*Thank you for reading!*
