@@ -16,7 +16,10 @@ seo:
       value: '#ImMuhdFaizul: Muhammad Faizul''s Blog'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        This is the official blog of Muhammad Faizul, under the #ImMuhdFaizul's
+        series. Muhammad Faizul is the administrator for all assets of
+        #ImMuhdFaizul. 
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/successful-stegosaurus.PNG
